@@ -1,4 +1,4 @@
-const {priceOrder} = require('../code/calcuOrderPrice.js')
+const {priceOrder} = require('../../code/07/calcuOrderPrice.js')
 
 describe('calculate order price', () => {
   it("happy path", () => {

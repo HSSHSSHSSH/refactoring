@@ -1,4 +1,4 @@
-const {getOrganization} = require('../code/organization.js')
+const {getOrganization} = require('../../code/07/organization.js')
 
 describe('organization', () => {
   it("get operation", () => {

@@ -1,4 +1,4 @@
-const {Producer, Province} = require('../code/province.js')
+const {Producer, Province} = require('../../code/07/province.js')
 
 function sampleProvince() {
   return new Province({

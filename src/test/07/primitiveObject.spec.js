@@ -1,4 +1,4 @@
-const { Order, Priority } = require('../code/primitiveObject.js')
+const { Order, Priority } = require('../../code/07/primitiveObject.js')
 
 describe("replace primitive with object", () => {
   it("happy path", () => {

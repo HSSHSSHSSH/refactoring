@@ -1,4 +1,4 @@
-const {Person} = require("../code/extractClass.js")
+const {Person} = require("../../code/07/extractClass.js")
 
 describe("extract class", () => {
   it("happy path", () => {

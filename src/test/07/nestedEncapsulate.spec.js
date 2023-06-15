@@ -1,4 +1,4 @@
-const { getCustomerData } = require("../code/nestedEncapsulate.js")
+const { getCustomerData } = require("../../code/07/nestedEncapsulate.js")
 
 describe("nested encapsulate", () => {
   it("nested get operation", () => {
